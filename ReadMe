@@ -1,0 +1,11 @@
+Install the "Siva_SMITCH_MachineTestApp" APK file.
+
+Open the Application.
+
+Click PUBLISH button to publish the services.
+
+Clickc SCAN button after PUBLISH the service.
+
+We can able to find the Published Services list in RecyclerView.
+
+When back press the button on Android device, service connection will be unregistered.
